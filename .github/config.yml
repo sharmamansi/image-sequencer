@@ -7,7 +7,7 @@ newIssueWelcomeComment: |
  Thanks for opening your first issue here! This space is [protected by our Code of Conduct](https://publiclab.org/conduct) - and we're here to help.
  Please follow the issue template to help us help you 👍🎉😄
  If you have screenshots to share demonstrating the issue, that's really helpful! 📸 You can [make a gif](https://www.cockos.com/licecap/) too!
- Don't forget to join our [Gitter channel](https://gitter.im/publiclab/publiclab) and our image-sequencer gitter channel [ImageSequencer Gitter Channel](https://gitter.im/publiclab/image-sequencer) for some brainstorming discussions. 
+ Don't forget to join our [Gitter channel](https://gitter.im/publiclab/publiclab) and our [ImageSequencer Gitter Channel](https://gitter.im/publiclab/image-sequencer) for some brainstorming discussions. 
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
 # Comment to be posted to on PRs from first time contributors in your repository
