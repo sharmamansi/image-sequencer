@@ -14,8 +14,8 @@
       "default": "125"
     },
     "checkbox": {
-      "type": "preserve aspect ratio",
-      "desc": "Percentage value of the resize",
+      "type": "integer",
+      "desc": "preserve aspect ratio",
       "default": "0"
     }
   },
